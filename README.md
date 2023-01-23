@@ -1,1 +1,5 @@
-pew
+stuff:
+
+- node
+- express
+- mongoose
